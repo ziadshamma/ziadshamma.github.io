@@ -11,9 +11,9 @@ redirect_from:
 👋 Hello! My name is Ziad Shamma
 
 ![Embedded Systems Image](https://progbiz.io/assets/images/iot1main.png){: .align-right width="450px"}
-I am an Electrical and Computer Engineering student with a deep fascination for microcontrollers and embedded systems.
+💻 I am an Electrical and Computer Engineering student with a deep fascination for microcontrollers and embedded systems.
 
-My educational journey in the field of embedded systems has allowed me to better explore the intersection between hardware and software, in addition to teaching me various valuable technical skills.
+📱 My educational journey in the field of embedded systems has allowed me to better explore the intersection between hardware and software, in addition to teaching me various valuable technical skills.
 
-My commitment to excellence motivates me to continuously strive to better enhance my skills for both personal growth and to ensure I am a valuable contributor to my colleagues.
+🤝 My commitment to excellence motivates me to continuously strive to better enhance my skills for both personal growth and to ensure I am a valuable contributor to my colleagues.
 
