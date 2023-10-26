@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*About Me*
+*About*
 
 👋 Hello! My name is Ziad Shamma
 
