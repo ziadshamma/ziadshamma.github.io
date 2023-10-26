@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Ziad Shamma Portfolio"
 title_separator          : "-"
 name                     : &name "Ziad Shamma"
 description              : &description "personal description"
