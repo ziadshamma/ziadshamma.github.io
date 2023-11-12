@@ -5,10 +5,23 @@ permalink: /experience/
 author_profile: true
 ---
 
+<style>
+.company-link {
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.company-logo {
+  max-width: 50px; /* Adjust the size as needed */
+  vertical-align: middle; /* Align the image vertically with the text */
+  margin-left: 10px; /* Add spacing between the image and the text */
+}
+</style>
+
 # Professional Experience
 
-## [Kettle River Contracting](https://kettlerivercontracting.com)
-[![KRC Logo](/images/KRC.jpg)](https://kettlerivercontracting.com)
+## [Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
+<img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
 
 *Junior Civil Project Coordinator*
 *05/2022 - 08/2022*
@@ -20,8 +33,8 @@ author_profile: true
 • Updated and managed project statistics including vendors, equipment data, and tasks completed on-site.
 • Assisted in administrating processes to track equipment, material, and information.
 
-## [Walmart Canada](https://corporate.walmart.com)
-[![Walmart Canada Logo](/images/Walmart.jpg)](https://corporate.walmart.com)
+## [Walmart Canada](https://corporate.walmart.com){: .company-link}
+<img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
 
 *Store Standards Associate*
 *02/2021 - 08/2021*
@@ -33,8 +46,8 @@ author_profile: true
 
 # Community Involvement
 
-## [Joe Media Group](https://joemedia.tv)
-[![Joe Media Group Logo](/images/joe.png)](https://joemedia.tv)
+## [Joe Media Group](https://joemedia.tv){: .company-link}
+<img src="/images/joe.png" alt="Joe Media Group Logo" class="company-logo">
 
 *Commercial Shoot - Extra*
 *10/2019 - 10/2019*
@@ -42,8 +55,8 @@ author_profile: true
 • Experienced multiple takes and re-takes of scenes
 • Enhanced adaptability in unfamiliar environments
 
-## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx)
-[![EMHS Logo](/images/emhs.jpg)](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx)
+## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
+<img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
 
 *Sports Medicine Trainer*
 *01/2019 - 06/2019*
