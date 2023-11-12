@@ -9,12 +9,13 @@ author_profile: true
 .company-link {
   text-decoration: none;
   font-weight: bold;
+  display: flex;
+  align-items: center;
 }
 
 .company-logo {
   max-width: 50px; /* Adjust the size as needed */
-  vertical-align: middle; /* Align the image vertically with the text */
-  margin-left: 10px; /* Add spacing between the image and the text */
+  margin-right: 10px; /* Add spacing between the image and the text */
 }
 </style>
 
