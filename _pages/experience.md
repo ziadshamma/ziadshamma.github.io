@@ -20,14 +20,10 @@ author_profile: true
 
 # Professional Experience
 
-## [Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
-<div class="company-item">
-  <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
-  <div>
-  *Junior Civil Project Coordinator*
-  *05/2022 - 08/2022*
-  <div>
-<div>
+## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
+
+*Junior Civil Project Coordinator*
+*05/2022 - 08/2022*
 
 - Coordinated job site set up, mobilization, project administration and close out.
 - Assisted in the implementation of new scheduling and on-boarding systems for on-site supervisors, laborers,
