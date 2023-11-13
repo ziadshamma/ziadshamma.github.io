@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
-
 My name is Ziad Shamma
 
 ![Embedded Systems Image](https://progbiz.io/assets/images/iot1main.png){: .align-right width="450px"}
