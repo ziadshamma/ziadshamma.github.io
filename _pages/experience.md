@@ -13,7 +13,7 @@ author_profile: true
 }
 
 .company-logo {
-  max-width: 50px; /* Adjust the size as needed */
+  max-width: 100px; /* Adjust the size as needed */
   margin-right: 10px; /* Add spacing between the image and the text */
 }
 </style>
@@ -32,8 +32,8 @@ author_profile: true
 - Updated and managed project statistics including vendors, equipment data, and tasks completed on-site.
 - Assisted in administrating processes to track equipment, material, and information.
 
-## [Walmart Canada](https://corporate.walmart.com){: .company-link}
 <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
+## [Walmart Canada](https://corporate.walmart.com){: .company-link}
 
 *Store Standards Associate*
 *02/2021 - 08/2021*
@@ -45,8 +45,8 @@ author_profile: true
 
 # Community Involvement
 
-## [Joe Media Group](https://joemedia.tv){: .company-link}
 <img src="/images/joe.png" alt="Joe Media Group Logo" class="company-logo">
+## [Joe Media Group](https://joemedia.tv){: .company-link}
 
 *Commercial Shoot - Extra*
 *10/2019 - 10/2019*
@@ -54,8 +54,8 @@ author_profile: true
 - Experienced multiple takes and re-takes of scenes
 - Enhanced adaptability in unfamiliar environments
 
-## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
 <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
+## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
 
 *Sports Medicine Trainer*
 *01/2019 - 06/2019*
