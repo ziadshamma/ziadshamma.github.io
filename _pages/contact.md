@@ -12,8 +12,8 @@ redirect_from:
 
 You can reach me through the following means:
 
-<i class="fa fa-envelope"></i>: [ziad.shamma@ucalgary.ca](mailto:ziad.shamma@ucalgary.ca)<br>
-<i class="fa fa-phone"></i>: +1 (587) 966-3501<br>
+<i class="fa fa-envelope"></i> [ziad.shamma@ucalgary.ca](mailto:ziad.shamma@ucalgary.ca)<br>
+<i class="fa fa-phone"></i> +1 (587) 966-3501<br>
 LinkedIn: [Ziad Shamma](https://www.linkedin.com/in/ziad-shamma/)<br>
 
 Feel free to contact me for any inquiries or collaborations.
