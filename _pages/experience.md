@@ -5,10 +5,6 @@ author_profile: true
 ---
 
 <style>
-body {
-  line-height: 1.4; /* Adjust the value as needed */
-}
-
 .company-link {
   text-decoration: none;
   font-weight: bold;
@@ -37,7 +33,7 @@ body {
 - Updated and managed project statistics including vendors, equipment data, and tasks completed on-site.
 - Assisted in administrating processes to track equipment, material, and information.
 
-<br><br>
+  
 
 <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
 ## [Walmart Canada](https://corporate.walmart.com){: .company-link}
@@ -50,7 +46,7 @@ body {
 - Worked as a team member to accomplish given workload to exceed expectations of supervisors.
 - Maintained a well-stocked and orderly area throughout the store.
 
-<br><br>
+  
 
 ## Community Involvement
 
@@ -63,7 +59,7 @@ body {
 - Experienced multiple takes and re-takes of scenes
 - Enhanced adaptability in unfamiliar environments
 
-<br><br>
+  
 
 <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
 ## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
