@@ -141,10 +141,11 @@ author_profile: true
 </div>
 
 <h2 align="left">Professional</h2>
-
+<h1 align='left'>
 - Critical Thinking
 - Creative Problem Solving
 - Leadership
 - Team Management
 - Organization
 - Written and Oral Communication
+</h1>
