@@ -139,4 +139,16 @@ author_profile: true
         <br>Multisim
     </div>
 
+<u><h2 align="left">Profesional</h2><u>
+<div align="left">
+
+- Critical Thinking
+- Creative Problem Solving
+- Leadership
+- Team Management
+- Organization
+- Written and Oral Communication
+
 </div>
+
+
