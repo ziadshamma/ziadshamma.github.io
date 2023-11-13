@@ -25,6 +25,7 @@ author_profile: true
 
 <h3 align="left">Languages and Programs I'm Experienced In:</h3>
 <div align="left">
+<br>
     <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40" />
         <br>C
@@ -82,7 +83,7 @@ author_profile: true
 
 <h3 align="left">Software Languages I'm Currently Learning:</h3>
 <div align="left">
-
+<br>
     <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40" />
         <br>Dart
@@ -113,7 +114,7 @@ author_profile: true
 
 <h3 align="left">Programs and Languages I'm Experienced In:</h3>
 <div align="left">
-
+<br>
     <div class="skill-item">
         <img src="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png" alt="MPLABX IDE" width="40" height="40" />
         <br>MPLabX IDE
