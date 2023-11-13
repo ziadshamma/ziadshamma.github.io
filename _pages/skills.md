@@ -138,6 +138,7 @@ author_profile: true
         <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" alt="Multisim" width="40" height="40" />
         <br>Multisim
     </div>
+</div>
 
 <h2 align="left"><u>Profesional<u></h2>
 <div align="left">
