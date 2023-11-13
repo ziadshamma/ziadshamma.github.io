@@ -23,9 +23,9 @@ author_profile: true
 ## Professional Experience
 
 <div class="company-link">
-  <a href="https://kettlerivercontracting.com">
-    <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
-    **Kettle River Contracting**
+  <a href="https://kettlerivercontracting.com" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo" style="margin-right: 10px;">
+    <strong style="vertical-align: middle;">Kettle River Contracting</strong>
   </a>
 </div>
 
