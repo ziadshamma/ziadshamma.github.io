@@ -40,8 +40,10 @@ author_profile: true
 - Assisted in administrating processes to track equipment, material, and information.
 
 <div class="company-link">
-  <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
-  [**Walmart Canada**](https://corporate.walmart.com){: .company-link}
+  <a href="https://corporate.walmart.com" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo" style="margin-right: 10px;">
+    <strong style="vertical-align: middle;">Walmart Canada</strong>
+  </a>
 </div>
 
 *Store Standards Associate*&nbsp;&nbsp;&nbsp;
@@ -53,9 +55,11 @@ author_profile: true
 
 ## Community Involvement
 
-<div class "company-link">
-  <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
-  [**Joe Media Group**](https://joemedia.tv){: .company-link}
+<div class="company-link">
+  <a href="https://joemedia.tv" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo" style="margin-right: 10px;">
+    <strong style="vertical-align: middle;">Joe Media Group</strong>
+  </a>
 </div>
 
 *Commercial Shoot - Extra*&nbsp;&nbsp;&nbsp;
@@ -65,8 +69,10 @@ author_profile: true
 - Enhanced adaptability in unfamiliar environments
 
 <div class="company-link">
-  <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
-  [**Ernest Manning High School**](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
+  <a href="https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo" style="margin-right: 10px;">
+    <strong style="vertical-align: middle;">Ernest Manning High School</strong>
+  </a>
 </div>
 
 *Sports Medicine Trainer*&nbsp;&nbsp;&nbsp;
