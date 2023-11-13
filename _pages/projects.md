@@ -13,5 +13,5 @@ author_profile: true
   The Green Thumb is an automatic plant watering system meant for busy people who may not have the time to care for their indoor plants and gardens. Its main components include three AVR128DB28 microcontrollers, a resistive moisture sensor, and a water container with a peristaltic pump controlled by a DC motor. To learn more about the project, its functionalities, its software and hardware designs, click the link below:
   <br>
   <br>
-  <a href="The_Green_Thumb_Report.pdf" target="_blank" class="btn">View PDF Report</a>
+  <a href="/The_Green_Thumb_Report.pdf" target="_blank" class="btn">View PDF Report</a>
 </div>
