@@ -20,7 +20,7 @@ author_profile: true
   }
 </style>
 
-<u><h2 align="left">Software</h2><u>
+<h2 align="left"><u>Software<u></h2>
 <div align="left">
 
 <h3 align="left">Languages and Programs I'm Experienced In:</h3>
@@ -108,7 +108,7 @@ author_profile: true
         <br>CSS
     </div>
 
-<u><h2 align="left">Hardware</h2><u>
+<u><h2 align="left"><u>Hardware<u></h2><u>
 <div align="left">
 
 <h3 align="left">Programs and Languages I'm Experienced In:</h3>
@@ -139,7 +139,7 @@ author_profile: true
         <br>Multisim
     </div>
 
-<u><h2 align="left">Profesional</h2><u>
+<h2 align="left"><u>Profesional<u></h2>
 <div align="left">
 
 - Critical Thinking
