@@ -141,9 +141,9 @@ author_profile: true
 </div>
 
 <h2 align="left">Professional</h2>
-  * Critical Thinking
-  * Creative Problem Solving
-  * Leadership
-  * Team Management
-  * Organization
-  * Written and Oral Communication
+  - Critical Thinking<br>
+  - Creative Problem Solving<br>
+  - Leadership<br>
+  - Team Management<br>
+  - Organization<br>
+  - Written and Oral Communication<br>
