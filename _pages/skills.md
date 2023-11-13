@@ -20,7 +20,7 @@ author_profile: true
   }
 </style>
 
-<h2 align="left">Software</h2>
+<u><h2 align="left">Software</h2><u>
 <div align="left">
 
 <h3 align="left">Languages and Programs I'm Experienced In:</h3>
@@ -108,7 +108,7 @@ author_profile: true
         <br>CSS
     </div>
 
-<h2 align="left">Hardware</h2>
+<u><h2 align="left">Hardware</h2><u>
 <div align="left">
 
 <h3 align="left">Programs and Languages I'm Experienced In:</h3>
