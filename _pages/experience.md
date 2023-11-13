@@ -23,7 +23,7 @@ author_profile: true
 
 ## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
 
-*Junior Civil Project Coordinator*<br>
+*Junior Civil Project Coordinator*&nbsp;&nbsp;&nbsp;
 *05/2022 - 08/2022*
 
 - Coordinated job site set up, mobilization, project administration and close out.
@@ -38,7 +38,7 @@ author_profile: true
 <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
 ## [Walmart Canada](https://corporate.walmart.com){: .company-link}
 
-*Store Standards Associate*<br>
+*Store Standards Associate*&nbsp;&nbsp;&nbsp;
 *02/2021 - 08/2021*
 
 - Engaged and interacted with customers to answer questions and provide information about merchandise
@@ -54,7 +54,7 @@ author_profile: true
 <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
 ## [Joe Media Group](https://joemedia.tv){: .company-link}
 
-*Commercial Shoot - Extra*<br>
+*Commercial Shoot - Extra*&nbsp;&nbsp;&nbsp;
 *10/2019 - 10/2019*
 
 - Experienced multiple takes and re-takes of scenes
@@ -65,7 +65,7 @@ author_profile: true
 <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
 ## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
 
-*Sports Medicine Trainer*<br>
+*Sports Medicine Trainer*&nbsp;&nbsp;&nbsp;
 *01/2019 - 06/2019*
 
 - Collaborated with school sports teams
