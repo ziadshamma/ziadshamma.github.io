@@ -20,7 +20,7 @@ author_profile: true
   }
 </style>
 
-<h3 align="left">Software:</h3>
+<h3 align="left">Software Languages I'm Experienced in:</h3>
 <div align="left">
     <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40" />
@@ -73,6 +73,14 @@ author_profile: true
     </div>
 
     <div class="skill-item">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/1728px-Microsoft_Office_logo_%282013–2019%29.svg.png" alt="Microsoft Office" width="40" height="40" />
+        <br>Microsoft Office
+    </div>
+
+<h3 align="left">Software Languages I'm Currently Learning:</h3>
+<div align="left">
+
+    <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="40" height="40" />
         <br>Dart
     </div>
@@ -100,10 +108,5 @@ author_profile: true
     <div class="skill-item">
         <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="40" height="40" />
         <br>CSS
-    </div>
-
-    <div class="skill-item">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/1728px-Microsoft_Office_logo_%282013–2019%29.svg.png" alt="Microsoft Office" width="40" height="40" />
-        <br>Microsoft Office
     </div>
 </div>
