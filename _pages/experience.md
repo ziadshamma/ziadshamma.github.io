@@ -15,28 +15,32 @@ author_profile: true
 .company-logo {
   max-width: 100px; /* Adjust the size as needed */
   margin-right: 5px; /* Add spacing between the image and the text */
+  float: left; /* Float the image to the left */
 }
 </style>
 
 # Experience
 ## Professional Experience
 
-## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
+<div class="company-link">
+  <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
+  [Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
+</div>
 
 *Junior Civil Project Coordinator*&nbsp;&nbsp;&nbsp;
 *05/2022 - 08/2022*
 
-- Coordinated job site set up, mobilization, project administration and close out.
+- Coordinated job site set up, mobilization, project administration, and closeout.
 - Assisted in the implementation of new scheduling and on-boarding systems for on-site supervisors, laborers,
   and operators.
 - Prepared project reports including execution methods, safety improvements, and cost tracking.
 - Updated and managed project statistics including vendors, equipment data, and tasks completed on-site.
 - Assisted in administrating processes to track equipment, material, and information.
 
-  
-
-<img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
-## [Walmart Canada](https://corporate.walmart.com){: .company-link}
+<div class="company-link">
+  <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
+  [Walmart Canada](https://corporate.walmart.com){: .company-link}
+</div>
 
 *Store Standards Associate*&nbsp;&nbsp;&nbsp;
 *02/2021 - 08/2021*
@@ -46,12 +50,12 @@ author_profile: true
 - Worked as a team member to accomplish given workload to exceed expectations of supervisors.
 - Maintained a well-stocked and orderly area throughout the store.
 
-  
-
 ## Community Involvement
 
-<img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
-## [Joe Media Group](https://joemedia.tv){: .company-link}
+<div class="company-link">
+  <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
+  [Joe Media Group](https://joemedia.tv){: .company-link}
+</div>
 
 *Commercial Shoot - Extra*&nbsp;&nbsp;&nbsp;
 *10/2019 - 10/2019*
@@ -59,10 +63,10 @@ author_profile: true
 - Experienced multiple takes and re-takes of scenes
 - Enhanced adaptability in unfamiliar environments
 
-  
-
-<img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
-## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
+<div class="company-link">
+  <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
+  [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
+</div>
 
 *Sports Medicine Trainer*&nbsp;&nbsp;&nbsp;
 *01/2019 - 06/2019*
