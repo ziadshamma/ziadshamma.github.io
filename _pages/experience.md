@@ -24,7 +24,7 @@ author_profile: true
 
 <div class="company-link">
   <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
-  [Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
+  **[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}**
 </div>
 
 *Junior Civil Project Coordinator*&nbsp;&nbsp;&nbsp;
@@ -38,15 +38,14 @@ author_profile: true
 - Assisted in administrating processes to track equipment, material, and information.
 
 <div class="company-link">
-  <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
-  [Walmart Canada](https://corporate.walmart.com){: .company-link}
+  <img src="/images/Walmart.jpg" alt="Walmart Logo" class "company-logo">
+  **[Walmart Canada](https://corporate.walmart.com){: .company-link}**
 </div>
 
 *Store Standards Associate*&nbsp;&nbsp;&nbsp;
 *02/2021 - 08/2021*
 
-- Engaged and interacted with customers to answer questions and provide information about merchandise
-  for sale.
+- Engaged and interacted with customers to answer questions and provide information about merchandise for sale.
 - Worked as a team member to accomplish given workload to exceed expectations of supervisors.
 - Maintained a well-stocked and orderly area throughout the store.
 
@@ -54,7 +53,7 @@ author_profile: true
 
 <div class="company-link">
   <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
-  [Joe Media Group](https://joemedia.tv){: .company-link}
+  **[Joe Media Group](https://joemedia.tv){: .company-link}**
 </div>
 
 *Commercial Shoot - Extra*&nbsp;&nbsp;&nbsp;
@@ -65,7 +64,7 @@ author_profile: true
 
 <div class="company-link">
   <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
-  [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
+  **[Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}**
 </div>
 
 *Sports Medicine Trainer*&nbsp;&nbsp;&nbsp;
