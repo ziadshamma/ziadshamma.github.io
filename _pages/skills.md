@@ -141,7 +141,6 @@ author_profile: true
 </div>
 
 <h2 align="left">Professional</h2>
-<div align="left">
 
 - Critical Thinking
 - Creative Problem Solving
@@ -149,5 +148,3 @@ author_profile: true
 - Team Management
 - Organization
 - Written and Oral Communication
-
-</div>
