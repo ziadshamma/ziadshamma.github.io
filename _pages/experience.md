@@ -23,8 +23,10 @@ author_profile: true
 ## Professional Experience
 
 <div class="company-link">
-  <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
-  [**Kettle River Contracting**](https://kettlerivercontracting.com){: .company-link}
+  <a href="https://kettlerivercontracting.com">
+    <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">
+    **Kettle River Contracting**
+  </a>
 </div>
 
 *Junior Civil Project Coordinator*&nbsp;&nbsp;&nbsp;
