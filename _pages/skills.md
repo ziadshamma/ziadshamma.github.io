@@ -20,7 +20,7 @@ author_profile: true
   }
 </style>
 
-<h3 align="left">Software Languages I'm Experienced in:</h3>
+<h3 align="left">Software Languages I'm Experienced In:</h3>
 <div align="left">
     <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40" />
@@ -104,4 +104,34 @@ author_profile: true
         <img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" alt="CSS" width="40" height="40" />
         <br>CSS
     </div>
+
+
+<h3 align="left">Hardware Programs I'm Experienced In:</h3>
+<div align="left">
+
+    <div class="skill-item">
+        <img src="https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide/_jcr_content/root/responsivegrid/container/container/isolatedimage_copy/image.coreimg.png/1651140970636/mplab-xide-transparent-background.png" alt="MPLABX IDE" width="40" height="40" />
+        <br>MPLabX IDE
+    </div>
+
+    <div class="skill-item">
+        <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/SystemVerilog_logo.png" alt="SystemVerilog" width="40" height="40" />
+        <br>SystemVerilog
+    </div>
+
+    <div class="skill-item">
+        <img src="https://user-images.githubusercontent.com/56430787/105164182-1afa8a80-5b15-11eb-8ac3-7ae5c9f0e15e.png" alt="Vivado" width="40" height="40" />
+        <br>Vivado
+    </div>
+
+    <div class="skill-item">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_Linear_Technology.svg/2560px-Logo_Linear_Technology.svg.png" alt="LTSpice" width="40" height="40" />
+        <br>LTSpice
+    </div>
+
+    <div class="skill-item">
+        <img src="https://digilent.com/blog/wp-content/uploads/2015/01/184_multisim_app_icon_ill.png" alt="Multisim" width="40" height="40" />
+        <br>Multisim
+    </div>
+
 </div>
