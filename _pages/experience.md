@@ -19,7 +19,6 @@ author_profile: true
 </style>
 
 # Experience
-
 ## Professional Experience
 
 ## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
@@ -50,7 +49,6 @@ author_profile: true
 <br><br>
 
 ## Community Involvement
-
 
 <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
 ## [Joe Media Group](https://joemedia.tv){: .company-link}
