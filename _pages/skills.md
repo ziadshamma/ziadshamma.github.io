@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Skills"
 permalink: /skills/
 author_profile: true
 ---
@@ -19,6 +18,9 @@ author_profile: true
     height: 60px; /* Adjust the height of the icon */
   }
 </style>
+
+<h1 align="left">Skills</h1>
+<div align="left">
 
 <h2 align="left">Software</h2>
 <div align="left">
