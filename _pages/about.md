@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<h1 align="left">About</h1>
-<div align="left">
+# About
 
 My name is Ziad Shamma
 
