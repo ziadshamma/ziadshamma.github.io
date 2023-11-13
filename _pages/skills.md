@@ -91,11 +91,6 @@ author_profile: true
     </div>
 
     <div class="skill-item">
-        <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" alt="Swift" width="40" height="40" />
-        <br>Swift
-    </div>
-
-    <div class="skill-item">
         <img src="https://cdn.freebiesupply.com/logos/large/2x/java-14-logo-png-transparent.png" alt="Java" width="40" height="40" />
         <br>Java
     </div>
