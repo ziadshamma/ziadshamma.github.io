@@ -14,7 +14,7 @@ author_profile: true
 
 .company-logo {
   max-width: 100px; /* Adjust the size as needed */
-  margin-right: 10px; /* Add spacing between the image and the text */
+  margin-right: 5px; /* Add spacing between the image and the text */
 }
 </style>
 
