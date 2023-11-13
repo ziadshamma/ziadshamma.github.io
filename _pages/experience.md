@@ -18,11 +18,9 @@ author_profile: true
 }
 </style>
 
-<h1 align="left">Experience</h1>
-<div align="left">
+# Experience
 
-<h2 align="left">Professional Experience</h2>
-<div align="left">
+## Professional Experience
 
 ## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
 
@@ -51,8 +49,7 @@ author_profile: true
 
 <br><br>
 
-<h2 align="left">Community Involvement</h2>
-<div align="left"><br><br>
+## Community Involvement
 
 
 <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
