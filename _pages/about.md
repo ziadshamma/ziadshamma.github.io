@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+<h1 align="left">About</h1>
+<div align="left">
 
 My name is Ziad Shamma
 
