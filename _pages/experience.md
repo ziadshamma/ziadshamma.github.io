@@ -48,7 +48,7 @@ author_profile: true
 
 <br><br>
 
-# Community Involvement<br>
+# Community Involvement<br><br>
 
 
 <img src="/images/joe.jpeg" alt="Joe Media Group Logo" class="company-logo">
