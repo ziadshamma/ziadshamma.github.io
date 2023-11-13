@@ -20,9 +20,11 @@ author_profile: true
 
 # Professional Experience
 
+<br><br>
+
 ## <img src="/images/KRC.jpg" alt="KRC Logo" class="company-logo">[Kettle River Contracting](https://kettlerivercontracting.com){: .company-link}
 
-*Junior Civil Project Coordinator   *
+*Junior Civil Project Coordinator*
 *05/2022 - 08/2022*
 
 - Coordinated job site set up, mobilization, project administration and close out.
@@ -32,10 +34,12 @@ author_profile: true
 - Updated and managed project statistics including vendors, equipment data, and tasks completed on-site.
 - Assisted in administrating processes to track equipment, material, and information.
 
+<br><br>
+
 <img src="/images/Walmart.jpg" alt="Walmart Logo" class="company-logo">
 ## [Walmart Canada](https://corporate.walmart.com){: .company-link}
 
-*Store Standards Associate   *
+*Store Standards Associate*
 *02/2021 - 08/2021*
 
 - Engaged and interacted with customers to answer questions and provide information about merchandise
@@ -43,21 +47,27 @@ author_profile: true
 - Worked as a team member to accomplish given workload to exceed expectations of supervisors.
 - Maintained a well-stocked and orderly area throughout the store.
 
+<br><br>
+
 # Community Involvement
+
+<br><br>
 
 <img src="/images/joe.png" alt="Joe Media Group Logo" class="company-logo">
 ## [Joe Media Group](https://joemedia.tv){: .company-link}
 
-*Commercial Shoot - Extra   *
+*Commercial Shoot - Extra*
 *10/2019 - 10/2019*
 
 - Experienced multiple takes and re-takes of scenes
 - Enhanced adaptability in unfamiliar environments
 
+<br><br>
+
 <img src="/images/emhs.jpg" alt="EMHS Logo" class="company-logo">
 ## [Ernest Manning High School](https://school.cbe.ab.ca/school/ErnestManning/Pages/default.aspx){: .company-link}
 
-*Sports Medicine Trainer   *
+*Sports Medicine Trainer*
 *01/2019 - 06/2019*
 
 - Collaborated with school sports teams
