@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 <style>
+body {
+  line-height: 1.4; /* Adjust the value as needed */
+}
+
 .company-link {
   text-decoration: none;
   font-weight: bold;
