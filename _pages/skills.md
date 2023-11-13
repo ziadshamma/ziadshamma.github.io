@@ -20,7 +20,10 @@ author_profile: true
   }
 </style>
 
-<h3 align="left">Software Languages I'm Experienced In:</h3>
+<h2 align="left">Software</h2>
+<div align="left">
+
+<h3 align="left">Languages and Programs I'm Experienced In:</h3>
 <div align="left">
     <div class="skill-item">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="C" width="40" height="40" />
@@ -105,8 +108,10 @@ author_profile: true
         <br>CSS
     </div>
 
+<h2 align="left">Hardware</h2>
+<div align="left">
 
-<h3 align="left">Hardware Programs I'm Experienced In:</h3>
+<h3 align="left">Programs and Languages I'm Experienced In:</h3>
 <div align="left">
 
     <div class="skill-item">
