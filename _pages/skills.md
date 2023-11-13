@@ -140,7 +140,7 @@ author_profile: true
     </div>
 </div>
 
-<h2 align="left">Profesional</h2>
+<h2 align="left">Professional</h2>
 <div align="left">
 
 - Critical Thinking
@@ -151,5 +151,3 @@ author_profile: true
 - Written and Oral Communication
 
 </div>
-
-
